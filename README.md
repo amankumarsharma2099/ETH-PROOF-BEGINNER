@@ -37,7 +37,7 @@ Once the contract is deployed, you can interact with it by passing the address. 
 
 ## Author
 
-Ankit kumar
+Aman kumar
 
 ## License
 
